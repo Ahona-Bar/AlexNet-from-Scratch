@@ -3,8 +3,7 @@ Using PyTorch, this project builds the AlexNet architecture from the ground up. 
 # Tech Stack: 
 ## Framework: Pytorch
 ## Language: Python
-## Libraries
-### torch: For constructing the model for deep learning. 
+## Libraries ### torch: For constructing the model for deep learning. 
 ### torchvision: To load and preprocess the FashionMNIST dataset.
 ### tqdm: To show the status of the training. 
 ### torchsummary: For condensing the architecture of AlexNet. 
