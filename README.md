@@ -38,7 +38,7 @@ The layers that comprise the AlexNet architecture are as follows:
 ## Experiment with ImageNet:The ImageNet dataset served as the training set for the original AlexNet. While FashionMNIST training makes experimenting simpler, ImageNet can yield more insightful outcomes.
 ## Data augmentation: Adding random crops, flips, and rotations to the data could enhance the performance of the model even further.
 ## Reduce Learning Rate: Especially in longer training sessions, adding a more severe learning rate decay could improve convergence.
-#References
+# References
 ## Alex Krizhevsky, Ilya Sutskever, and Geoffrey Hinton, "ImageNet Classification with Deep Convolutional Neural Networks," NIPS, 2012.
 ## PyTorch Documentation
 ## FashionMNIST Dataset
